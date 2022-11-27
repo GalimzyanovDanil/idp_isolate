@@ -4,7 +4,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:json_annotation/json_annotation.dart';
 
-part 'model.g.dart';
+part 'station_model.g.dart';
 
 /// Модель станции в справочнике/API
 @immutable
